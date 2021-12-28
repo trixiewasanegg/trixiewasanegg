@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @theres-a-bea
-- 👀 I’m interested in bodging wierd projects and all that jaxx
+- 👀 I’m interested in bodging wierd projects and all that jazz
 - 🌱 I’m currently learning python primarily
 - 📫 How to reach me:
 -   Email me at samuelsson.bea@gmail.com
