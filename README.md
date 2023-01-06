@@ -12,7 +12,7 @@ Currently, I'm working through understanding proper software engineering techniq
 
 GPG Public Key (Fingerprint: B9D4 2885 0A76 C554 467A  B08D CBB4 47DE D732 F628)
 
------BEGIN PGP PUBLIC KEY BLOCK-----
+`-----BEGIN PGP PUBLIC KEY BLOCK-----
 
 mQINBGO3bewBEADOEVzo0vT90gqfAXHmipGrPUkDZF5A32LecgAkSctLoR7JvwPl
 a++OaT8m2LhcfOMlC2XTT+U8XiDEzAOF1AqNX8N42k3HD1yluwMMuJOoqHKmvnRM
@@ -62,7 +62,7 @@ DxYQM+4Z9gYgutUJm11URioFF+2t/JmiElTaLzEsthBGlHwAMYypLk5CvJ6hJ3kd
 GpaM+AtC4z+4rmGcl4wLt5bXWyYzDTTOta/qqI4C97ck5de1YGn/NvtZ9QARE/oe
 hDL6yrwha8juqzXGmMnRiCBeRoYPdhbJNvF8f90FjYoDktruQ6MQRNvFQRn4r7wa
 =cJb6
------END PGP PUBLIC KEY BLOCK-----
+-----END PGP PUBLIC KEY BLOCK-----`
 
 
 <!---
