@@ -1,8 +1,6 @@
 Hello! My name is Beatrix/Trixie (she/her) and I am a big ol' nerd who's terrible at coding but wants to get better so here's my GitHub.
 
-I've been working with computers my entire life, and am studying Computer Science at the University of Western Australia.
-
-Currently, I'm working through understanding proper software engineering techniques, with my main project being [Video Concat](https://github.com/theres-a-bea/video-concat), purely as that software is used at my workplace and it needs to be working at least sorta well.
+I have no active development projects but I am gay and enjoy computer.
 
 
 📫 How to reach me:
