@@ -1,14 +1,46 @@
-Hello! My name is Beatrix/Trixie (she/her) and I am a big ol' nerd who's terrible at coding but wants to get better so here's my GitHub.
+# Hello!
 
-I have no active development projects but I am gay and enjoy computer.
+## My name is Beatrix/Trixie
+### 22, F (She/Her), Australian
+## I am a big ol' nerd ~~who's terrible at coding but wants to get better.~~
+Okay, maybe I'm not terrible but by gods I could use some work!
 
+# 📋 Current Project/s
+## RelMANS (Private Repo) - v0.1 pre-alpha, 5% complete
+### Summary
+I am currently working on a Relationship Management System (RelMANS) to help myself organise my life and polycule.
 
-📫 How to reach me:
--   Email me at [samuelsson.bea@gmail.com](mailto:samuelsson.bea@gmail.com)
--   Reach out to me on Discord [trixiewasanegg#8632](https://discordapp.com/users/694194730069917808)
+### Stack Breakdown
+**With this project, I'm improving my:**
+- Python development skills, as that is what the backend is based on
+- SQL & relational database design / implementation skills, which are admittedly lacking
+- Link visualisation with GraphViz
+- Also my git & documentation skills
+  - I still don't fully get what a PR is and my commenting/READMEs are adequate at best.
 
+**Planned improvements will involve:**
+- ETL implementation (system TBD, likely AirByte) as the planned interface and visualisation tools are Google Sheets & Notion
+  - Google Sheets for ease of formatting & sharing with "stakeholders" (partners.)
+  - Notion for implementation into my Life Management System (LMANS) which uses a workspace as my "second brain."
+- MySQL Server deployment, as this will allow for more functionality than my current Db system (SQLite3.)
 
-GPG Public Key (Fingerprint: B9D4 2885 0A76 C554 467A  B08D CBB4 47DE D732 F628)
+# 📫 How to reach me:
+## Obviously, if it's related to my code:
+- Lodge an issue on the relevant repo
+### Important Note:
+**I am not a full-time developer, nor do I want to be.** I code for fun and to solve my own problems, nothing more.<br>
+I try to keep my code up to date and relatively bug free, but I have a day job and a life. If something's not working for your use case, take a look at the code and try to fix it yourself! I would love someone to build on my projects and my code 🥰
+
+## For general chats:
+- Email me at [samuelsson.bea@gmail.com](mailto:samuelsson.bea@gmail.com)
+- Reach out to me on Discord [TrixieWasAnEgg](https://discordapp.com/users/694194730069917808)
+- DM me on Reddit [u/TrixieWasAnEgg](https://reddit.com/u/trixiewasanegg)
+- I am also on a bunch of other sites (X/Twitter, Flickr, Instagram) as TrixieWasAnEgg
+
+# 🔒 GPG Key
+Look, if you wanna send me encrypted comms - go for it lol. Just let me know you're using my GitHub key.
+
+*GPG Public Key (Fingerprint: B9D4 2885 0A76 C554 467A  B08D CBB4 47DE D732 F628)*
 ```
   -----BEGIN PGP PUBLIC KEY BLOCK-----
 
