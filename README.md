@@ -1,20 +1,34 @@
 # Hello!
 
 ## My name is Beatrix/Trixie
-### 22, F (She/Her), Australian
+### 23, F (She/Her), Australian
 ## I am a big ol' nerd ~~who's terrible at coding but wants to get better.~~
 Okay, maybe I'm not terrible but by gods I could use some work!
 
 # 📋 Current Project/s
-## RelMANS (Private Repo) - v0.1 pre-alpha, 5% complete
+## Open Source Karate (Repo coming soon) - v0.3 pre-alpha, 40% complete.
 ### Summary
-I am currently working on a Relationship Management System (RelMANS) to help myself organise my life and polycule.
+In partnership with [Dan Samuelsson (@danielhsamuelsson)](https://github.com/danielhsamuelsson), we're working on the design and implementation of a [Bookstack](https://www.bookstackapp.com/) based Kyohan for our flavor of Goju-Ryu karate, and to aid our students training.
+
+### Stack Breakdown
+Coming soon...
+
+## KaratERP (Repo coming soon) - v0.1 pre-alpha, 0% complete
+### Summary
+This is a fork of the [Frappe Educastion Plugin](https://github.com/frappe/education) for [ERPNext](https://github.com/frappe/erpnext), modified to include functionality around rank based progression with a focus on martial arts. This is designed to assist with the general operations of [Open Path Martial Arts](https://openpathmartialarts.org), my Karate school, and to be used on our ERPNext deployment.
+
+### Stack Breakdown
+Coming soon...
+
+## RelMANS (Private Repo) - v0.1 pre-alpha, 5% complete (On Hiatus)
+### Summary
+Earlier this year I was working on a Relationship Management System (RelMANS) to help myself organise my life and polycule. This project is currently on hiatus as I work on other higher-priority projects.
 
 ### Stack Breakdown
 **With this project, I'm improving my:**
-- Python development skills, as that is what the backend is based on
-- SQL & relational database design / implementation skills, which are admittedly lacking
-- Link visualisation with GraphViz
+- Python development skills, as that is what the backend is based on.
+- MySQL & relational database design / implementation skills.
+- Data visualisation using [Plotly's Dash](https://dash.plotly.com/) and [Dash Cytoscapes](https://dash.plotly.com/cytoscape)
 - Also my git & documentation skills
   - I still don't fully get what a PR is and my commenting/READMEs are adequate at best.
 
@@ -22,7 +36,6 @@ I am currently working on a Relationship Management System (RelMANS) to help mys
 - ETL implementation (system TBD, likely AirByte) as the planned interface and visualisation tools are Google Sheets & Notion
   - Google Sheets for ease of formatting & sharing with "stakeholders" (partners.)
   - Notion for implementation into my Life Management System (LMANS) which uses a workspace as my "second brain."
-- MySQL Server deployment, as this will allow for more functionality than my current Db system (SQLite3.)
 
 # 📫 How to reach me:
 ## Obviously, if it's related to my code:
