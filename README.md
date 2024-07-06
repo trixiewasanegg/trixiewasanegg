@@ -37,6 +37,33 @@ Earlier this year I was working on a Relationship Management System (RelMANS) to
   - Google Sheets for ease of formatting & sharing with "stakeholders" (partners.)
   - Notion for implementation into my Life Management System (LMANS) which uses a workspace as my "second brain."
 
+# 🕒 Historical Project/s
+## [pissshit.com](https://github.com/trixiewasanegg/pissshit.com) - v1.0 Initial release
+### Summary
+Look, your guess is as good as mine for why I own this. I bought the domain at like,,,, 11PM and sorta had to do something with it. I may do something with it eventually.
+
+### Stack Breakdown:
+- Git version control & syncing
+- Raw HTML & CSS
+- NGINX configuration & SSL cert management
+
+## [Exportify Downloader](https://github.com/trixiewasanegg/exportify-downloader) - v0.1 alpha
+### Summary
+Quick and dirty spotify playlist downloader, takes stuff from [exportify.net](https://exportify.net/) & downloads it using pytube. <br />
+Can also generate playlists for iTunes or DJing naming scheme
+
+### Stack Breakdown:
+- Python python python
+- CSV parsing
+
+## [Video Concat](https://github.com/trixiewasanegg/video-concat) - v0.31 beta
+### Summary
+Super basic script to concat files using FFMPEG. Only piece of code I've ever deployed into a professional production environment (still in use at my old workplace to my knowledge) and includes the variable yee on line 105... Good job me
+
+### Stack Breakdown:
+- Python once again
+- ffmpreg
+
 # 📫 How to reach me:
 ## Obviously, if it's related to my code:
 - Lodge an issue on the relevant repo
