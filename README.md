@@ -6,6 +6,19 @@
 Okay, maybe I'm not terrible but by gods I could use some work!
 
 # 📋 Current Project/s
+## [pissshit.com](https://github.com/trixiewasanegg/pissshit.com) - v1.0 Initial release
+### Summary
+Look, your guess is as good as mine for why I own this. I bought the domain at like,,,, 11PM and sorta had to do something with it. I may do something with it eventually.
+
+### Stack Breakdown:
+- Git version control & syncing
+- Raw HTML & CSS
+- NGINX configuration & SSL cert management
+### v2.0 will include:
+- Microblogging Service
+  - Discord bot written in Python to create posts
+  - Markdown interpreting to load on homepage
+
 ## Open Source Karate (Repo coming soon) - v0.3 pre-alpha, 40% complete.
 ### Summary
 In partnership with [Dan Samuelsson (@danielhsamuelsson)](https://github.com/danielhsamuelsson), we're working on the design and implementation of a [Bookstack](https://www.bookstackapp.com/) based Kyohan for our flavor of Goju-Ryu karate, and to aid our students training.
@@ -38,14 +51,6 @@ Earlier this year I was working on a Relationship Management System (RelMANS) to
   - Notion for implementation into my Life Management System (LMANS) which uses a workspace as my "second brain."
 
 # 🕒 Historical Project/s
-## [pissshit.com](https://github.com/trixiewasanegg/pissshit.com) - v1.0 Initial release
-### Summary
-Look, your guess is as good as mine for why I own this. I bought the domain at like,,,, 11PM and sorta had to do something with it. I may do something with it eventually.
-
-### Stack Breakdown:
-- Git version control & syncing
-- Raw HTML & CSS
-- NGINX configuration & SSL cert management
 
 ## [Exportify Downloader](https://github.com/trixiewasanegg/exportify-downloader) - v0.1 alpha
 ### Summary
