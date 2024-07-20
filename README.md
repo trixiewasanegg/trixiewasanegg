@@ -15,9 +15,9 @@ Look, your guess is as good as mine for why I own this. I bought the domain at l
 - Raw HTML & CSS
 - NGINX configuration & SSL cert management
 ### v2.0 will include:
-- Microblogging Service
-  - Discord bot written in Python to create posts
-  - Markdown interpreting to load on homepage
+- Microblogging & CMS Discord Bot
+  - Bot pulls from channels and interprets into markdown
+  - Zero-MD to load onto homepage, page generation for posts.
 
 ## Open Source Karate (Repo coming soon) - v0.3 pre-alpha, 40% complete.
 ### Summary
