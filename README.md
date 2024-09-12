@@ -26,13 +26,6 @@ In partnership with [Dan Samuelsson (@danielhsamuelsson)](https://github.com/dan
 ### Stack Breakdown
 Coming soon...
 
-## KaratERP (Repo coming soon) - v0.1 pre-alpha, 0% complete
-### Summary
-This is a fork of the [Frappe Educastion Plugin](https://github.com/frappe/education) for [ERPNext](https://github.com/frappe/erpnext), modified to include functionality around rank based progression with a focus on martial arts. This is designed to assist with the general operations of [Open Path Martial Arts](https://openpathmartialarts.org), my Karate school, and to be used on our ERPNext deployment.
-
-### Stack Breakdown
-Coming soon...
-
 ## RelMANS (Private Repo) - v0.1 pre-alpha, 5% complete (On Hiatus)
 ### Summary
 Earlier this year I was working on a Relationship Management System (RelMANS) to help myself organise my life and polycule. This project is currently on hiatus as I work on other higher-priority projects.
