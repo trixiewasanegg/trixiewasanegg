@@ -6,6 +6,19 @@
 Okay, maybe I'm not terrible but by gods I could use some work!
 
 # 📋 Current Project/s
+## [BeGayDoCrim.Es](https://github.com/trixiewasanegg/begaydocrim.es) - v0.1 Pre-MVP
+### Summary
+Post the WP-Engine fiasco, I went "Fuck it, Imma build my own blog CMS. With ~~blackjack~~ a Discord server! And ~~hookers~~ MarkDown!" <br />
+This is a bodge but I like it.
+
+### Stack Breakdown:
+- Git version control & syncing
+- Raw HTML & CSS
+- Microblogging & CMS Discord Bot
+  - Bot pulls from channels and interprets into markdown.
+  - Zero-MD to load onto homepage, page generation for posts.
+- NGINX configuration & SSL cert management
+
 ## [pissshit.com](https://github.com/trixiewasanegg/pissshit.com) - v1.0 Initial release
 ### Summary
 Look, your guess is as good as mine for why I own this. I bought the domain at like,,,, 11PM and sorta had to do something with it. I may do something with it eventually.
@@ -14,11 +27,7 @@ Look, your guess is as good as mine for why I own this. I bought the domain at l
 - Git version control & syncing
 - Raw HTML & CSS
 - NGINX configuration & SSL cert management
-### v2.0 will include:
-- Microblogging & CMS Discord Bot
-  - Bot pulls from channels and interprets into markdown
-  - Zero-MD to load onto homepage, page generation for posts.
-
+  
 ## Open Source Karate (Repo coming soon) - v0.3 pre-alpha, 40% complete.
 ### Summary
 In partnership with [Dan Samuelsson (@danielhsamuelsson)](https://github.com/danielhsamuelsson), we're working on the design and implementation of a [Bookstack](https://www.bookstackapp.com/) based Kyohan for our flavor of Goju-Ryu karate, and to aid our students training.
@@ -73,7 +82,7 @@ I try to keep my code up to date and relatively bug free, but I have a day job a
 - Email me at [samuelsson.bea@gmail.com](mailto:samuelsson.bea@gmail.com)
 - Reach out to me on Discord [TrixieWasAnEgg](https://discordapp.com/users/694194730069917808)
 - DM me on Reddit [u/TrixieWasAnEgg](https://reddit.com/u/trixiewasanegg)
-- My blog is [trixiewasanegg.wordpress.com](https://trixiewasanegg.wordpress.com)
+- My blog is ~~trixiewasanegg.wordpress.com~~ in development currently, stay tuned.
 - I also own [pissshit.com](http://www.pissshit.com)
 - I am also on a bunch of other sites (X/Twitter, Flickr, Instagram) as TrixieWasAnEgg
 
