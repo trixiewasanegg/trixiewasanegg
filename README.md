@@ -6,18 +6,26 @@
 Okay, maybe I'm not terrible but by gods I could use some work!
 
 # 📋 Current Project/s
-## [BeGayDoCrim.Es](https://github.com/trixiewasanegg/begaydocrim.es) - v0.1 Pre-MVP
+## [BeGay-DoCrim.Es](https://begay-docrim.es) - v1.0 Initial Release
 ### Summary
 Post the WP-Engine fiasco, I went "Fuck it, Imma build my own blog CMS. With ~~blackjack~~ a Discord server! And ~~hookers~~ MarkDown!" <br />
 This is a bodge but I like it.
+[Source Code](https://github.com/trixiewasanegg/begay-docrim.es)
 
 ### Stack Breakdown:
-- Git version control & syncing
-- Raw HTML & CSS
-- Microblogging & CMS Discord Bot
-  - Bot pulls from channels and interprets into markdown.
-  - Zero-MD to load onto homepage, page generation for posts.
-- NGINX configuration & SSL cert management
+#### Front end
+- Relatively raw HTML & CSS
+- md-block for markdown formatting
+- JQuery to pull files together
+- NGINX
+
+#### Back end
+- CMS using a discord server
+- Python Core
+- discord.py for interfacing with the discord server
+- pytz for datetime timezone shit
+- pillow for image compression
+
 
 ## [pissshit.com](https://github.com/trixiewasanegg/pissshit.com) - v1.0 Initial release
 ### Summary
