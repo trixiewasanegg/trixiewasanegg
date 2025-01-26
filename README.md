@@ -90,6 +90,7 @@ I try to keep my code up to date and relatively bug free, but I have a day job a
 - Email me at [samuelsson.bea@gmail.com](mailto:samuelsson.bea@gmail.com)
 - Reach out to me on Discord [TrixieWasAnEgg](https://discordapp.com/users/694194730069917808)
 - DM me on Reddit [u/TrixieWasAnEgg](https://reddit.com/u/trixiewasanegg)
+- My Bluesky is [@trixieisanerd.bsky.social](https://bsky.app/profile/trixieisanerd.bsky.social)
 - My blog is [begay-docrim.es](https://begay-docrim.es)
 - I also own [pissshit.com](http://www.pissshit.com)
 - I'm on a couple Fedi instances with the handle @trixiewasanegg:
