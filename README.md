@@ -1,7 +1,7 @@
 # Hello!
 
 ## My name is Beatrix/Trixie
-### 23, F (She/Her), Australian
+### 24, F (She/Her), Australian
 ## I am a big ol' nerd ~~who's terrible at coding but wants to get better.~~
 Okay, maybe I'm not terrible but by gods I could use some work!
 
